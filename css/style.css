@@ -24,4 +24,72 @@
   background-size: cover;
 }
 
+#home-heading {
+  position: relative;
+  min-height: 200px;
+  color: #ffffff;
+  background: url("../img/lights.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+#home-heading .dark-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7);
+}
+
+#video {
+  position: relative;
+  min-height: 200px;
+  color: #ffffff;
+  background: url("../img/media.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+#video .dark-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7);
+}
+#video a {
+  color: white;
+}
+
+#footer {
+  color: white;
+}
+
+#footer-final {
+  background: black;
+  color: #ffffff;
+}
+
+#head {
+  position: relative;
+  background: url("../img/image1.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #ffffff;
+  min-height: 200px;
+}
+#head .dark-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7);
+}
+
+#about img {
+  margin-top: -50px;
+}
+
 /*# sourceMappingURL=style.css.map */
