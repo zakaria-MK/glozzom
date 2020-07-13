@@ -92,4 +92,17 @@
   margin-top: -50px;
 }
 
+#question .card {
+  border-color: #727171;
+}
+#question a {
+  text-decoration: none;
+  color: white;
+}
+#question .card-header,
+#question .card-body {
+  color: white;
+  background: #3a3939;
+}
+
 /*# sourceMappingURL=style.css.map */

@@ -100,3 +100,19 @@
   }
 }
 
+#question {
+  .card {
+    border-color: #727171;
+  }
+
+  a {
+    text-decoration: none;
+    color: white;
+  }
+
+  .card-header , 
+  .card-body {
+    color: white;
+    background: #3a3939;
+  }
+ }
